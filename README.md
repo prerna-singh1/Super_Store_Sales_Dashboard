@@ -1,6 +1,6 @@
-![Screenshot (45)](https://github.com/prerna-singh1/Super_Store_Sales_Dashboard/assets/145128400/56d4a877-5044-4071-b181-e64d87ab6cae)
+![new screenshort](https://github.com/prerna-singh1/Super_Store_Sales_Dashboard/assets/145128400/d9da761a-e658-493e-82a7-4550195a061c)
+![sales for next 15 days](https://github.com/prerna-singh1/Super_Store_Sales_Dashboard/assets/145128400/3c24c22a-a524-44bc-b8ee-a283ec60c27f)
 
-![Screenshot (43)](https://github.com/prerna-singh1/Super_Store_Sales_Dashboard/assets/145128400/385e4cb1-d358-4bba-93b3-9c1b335313fc)
 
 
 
