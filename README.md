@@ -11,5 +11,29 @@
 To Contribute to the success of a business by utilizing data analysis techniques. Specifically focusing on time  series analysis 
 to provide valuable insights and accurate sales forecasting.
 
+**Some important steps** :
+
+Dashboard Creation
+
+Data analysis
+
+Sales Forecasting
+
+Actionable insights and Recommendations
+
+**Insights**
+- 
+-  Max Customer choice **COD** method in this project
+
+-  maximum profit gained in the Months of **October** and **December**
+
+-  maximum sales is **1.6M**
+
+-  Based on the subcategory maximum sales has **Phones**
+   
+ 
+
+
+
 
 
