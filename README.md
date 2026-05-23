@@ -8,7 +8,6 @@
 
 Super Store Sales Dashboard
 📌 Project Overview
-
 This project presents an interactive Super Store Sales Dashboard built using Power BI to analyze sales performance, profit trends, customer segments, shipping modes, and sales forecasting.
 
 The dashboard helps businesses monitor KPIs, identify top-performing categories, and make data-driven decisions using visual analytics.
@@ -19,10 +18,9 @@ Monitor regional sales distribution
 Understand customer purchasing behavior
 Forecast future sales trends
 Improve business decision-making using data visualization
-   📊 Dashboard Features
-1️⃣ KPI Cards
+📊 Dashboard Features
 
-The dashboard includes key business metrics:
+1️⃣ KPI Cards
 
 Total Sales → 1.57M
 Total Quantity → 22.32K
@@ -40,22 +38,20 @@ Sales by Region
 Sales by Payment Mode
 Sales by Shipping Mode
 
-3️⃣ Profit Analysis
+3️⃣ Profit Analysis:
 Monthly Profit Comparison (Year-over-Year)
 Profit Trend Analysis
 Profit Contribution by Category
-4️⃣ Forecasting Analysis
-
+4️⃣ Forecasting Analysis:
 The forecasting dashboard predicts sales for the next 15 days using historical sales data.
 
 Features:
-
 Time Series Forecasting
 Future Sales Prediction
 Trend Analysis
 Seasonal Pattern Observation
 
-Business Recommendations
+Business Recommendations:
 Increase focus on high-performing Technology products
 Improve marketing for underperforming regions
 Optimize shipping operations to reduce delivery time
